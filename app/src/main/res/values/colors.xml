@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- しろ -->
+    <color name="white">#FFFFFF</color>
+    <!-- くろ -->
+    <color name="black">#000000</color>
+    <!-- あお -->
+    <color name="blue">#0000FF</color>
+    <!-- あか -->
+    <color name="red">#FF0000</color>
+    <!-- きいろ -->
+    <color name="yellow">#FFFF00</color>
+    <!-- みどり -->
+    <color name="green">#00FF00</color>
+    <color name="darkgreen">#6D9A4A</color>
+    <color name="dardyellow">#E4A20B</color>
+    <color name="darkred">#A8002F</color>
+    <!-- むらさき -->
+    <color name="purple">#9900CC</color>
+    <!-- ピンク -->
+    <color name="pink">#FF00FF</color>
+    <!-- グレー -->
+    <color name="gray">#BEBEBE</color>
+    <!-- アイボリー -->
+    <color name="ivory">#EEEEE0</color>
+    <!-- オレンジ -->
+    <color name="orange">#FF9900</color>
+    <!-- 茶 -->
+    <color name="brown">#CC9900</color>
+    <!-- クリーム -->
+    <color name="cream">#FFFFCC</color>
+    <!-- darkcyan -->
+    <color name="darkcyan">#008B8B</color>
+    <!-- lightyellow -->
+    <color name="lightyellow">#ffffE0</color>
+    <!-- wheat  -->
+    <color name="wheat">#F5DEB3</color>
+    <!-- slateblue  -->
+    <color name="slateblue">#6A5ACD</color>
+    <!--dimgray-->
+    <color name="dimgray">#696969</color>
+    <!--濃い目のグレー-->
+    <color name="srategray">#55545D</color>
+    <!--各タイプの色-->
+    <color name="nomal">#fffaf0</color>
+    <color name="honoo">#ff7f50</color>
+    <color name="mizu">#1e90ff</color>
+    <color name="denki">#ffd700</color>
+    <color name="kusa">#3cb371</color>
+    <color name="koori">#00ffff</color>
+    <color name="kakutou">#8b4513</color>
+    <color name="doku">#9400d3</color>
+    <color name="zimen">#daa520</color>
+    <color name="hikou">#87cefa</color>
+    <color name="esupa">#ff00ff</color>
+    <color name="mushi">#6b8e23</color>
+    <color name="iwa">#b8860b</color>
+    <color name="go_suto">#483d8b</color>
+    <color name="doragon">#2792c3</color>
+    <color name="aku">#393f4c</color>
+    <color name="hagane">#c0c0c0</color>
+    <color name="feary">#ffc0cb</color>
+    <color name="clear">#00000000</color>
+    <color name="haihaku">#BCBDC2</color>
+
+</resources>

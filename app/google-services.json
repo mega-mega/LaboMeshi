@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "236919162548",
+    "firebase_url": "https://labomeshi-d545b.firebaseio.com",
+    "project_id": "labomeshi-d545b",
+    "storage_bucket": "labomeshi-d545b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236919162548:android:8b2da9c519ce6b44",
+        "android_client_info": {
+          "package_name": "com.labomeshi.t.labomeshi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236919162548-7475usdd28tm7lqpmc1ml4ohm060bco7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZosx6eQJNk42igZgpPMe5esUUH3z79Qs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
