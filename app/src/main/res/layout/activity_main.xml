@@ -9,8 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:background="@color/haihaku"
-        android:id="@+id/activity_main">
+        android:background="@color/haihaku">
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -21,7 +20,7 @@
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:textSize="30sp"
+                android:textSize="20sp"
                 android:background="@color/cream"/>
             <ImageView
                 android:scaleType="centerCrop"
@@ -29,6 +28,15 @@
                 android:layout_height="100dp"
                 android:src="@drawable/boss"/>
         </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/activity_main"
+            android:orientation="horizontal"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/recordText"/>
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
